@@ -1,2 +1,11 @@
-# html-v2
-Html Version 2.0
+# Intermediate HTML Project
+
+This is an intermediate HTML project for demonstration purposes.
+
+## Usage
+
+To view the project, open `index.html` in your web browser.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
